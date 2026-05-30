@@ -52,8 +52,8 @@ The project is organized in a professional, modular layout:
 ### 1. Data Cleaning & Database Injection
 1. Clone this repository to your local system:
    ```bash
-   git clone https://github.com/nisthajain/customer-trends-data-analysis-SQL-Python-PowerBI.git
-   cd customer-trends-data-analysis-SQL-Python-PowerBI
+   git clone https://github.com/nisthajain/Retail-Customer-Behavior-Trends-Analysis-Dashboard.git
+   cd Retail-Customer-Behavior-Trends-Analysis-Dashboard
    ```
 2. Place the dataset `customer_shopping_behavior.csv` in the `/data` folder (pre-configured).
 3. Open the Jupyter Notebook `notebooks/customer_trends_analysis.ipynb`.
@@ -68,19 +68,5 @@ The project is organized in a professional, modular layout:
 1. Ensure you have Power BI Desktop installed.
 2. Open `/dashboard/retail_behavior_dashboard.pbix` to explore the interactive visual analytics.
 3. (Optional) Reconnect the data source settings to point to your local PostgreSQL table if you want to pull live database updates.
-
 ---
 
-## 👤 About the Author
-**Nistha Jain**  
-Data Analyst with a passion for transforming raw customer data into actionable growth strategies. 
-
-### 🚀 Let's Connect!
-* **LinkedIn**: [Nistha Jain](https://www.linkedin.com/in/nistha-jain)
-* **GitHub**: [nisthajain](https://github.com/nisthajain)
-* **Email**: [nistha.jain@example.com](mailto:nistha.jain@example.com) *(Update with your professional email address)*
-
----
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
